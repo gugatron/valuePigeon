@@ -41,7 +41,7 @@ int main () {
     int items = 50;
     double cost_per_item = 9.99;
     double total_cost = items * cost_per_item;
-    char currency = 'GLB';
+   string currency = 'GLB';
 
     // Print variables
     cout << "Number of items: " << items << "\n";
